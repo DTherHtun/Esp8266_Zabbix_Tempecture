@@ -13,7 +13,7 @@
 -------------
 
 - `esp8266 nodemcu1`
-- `DHT 11`
+- `DHT 11 Tempecture & Humidity Sensor`
 - `Resistor 10k ohm`
 - `project board`
 - `Male to male Dupont Jumper Wire`
