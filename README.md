@@ -3,11 +3,11 @@
 ##
 ## Set as the follows your wifi settings
 ---------------------------------------
-::
-const char* ssid     = "**wifi_ssid_name**";
-const char* password = "**wifi_password**";
-const char* zabbix_server = "**zabbix_server_ip**";
-::
+
+  const char* ssid     = "**wifi_ssid_name**";
+  const char* password = "**wifi_password**";
+  const char* zabbix_server = "**zabbix_server_ip**";
+
 ##
 ## Components
 -------------
