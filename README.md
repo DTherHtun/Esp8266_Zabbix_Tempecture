@@ -20,8 +20,8 @@
 
 /////////////////////////////////////////////////////////////////////////
 
-![Flarum screenshot](http://s23.postimg.org/5ea9c5663/IMG_5708.jpg:large)
+![Flarum screenshot](http://s23.postimg.org/5ea9c5663/IMG_5708.jpg)
 
-![Flarum screenshot](http://s23.postimg.org/5ea9c5663/IMG_5711.jpg:large)
+![Flarum screenshot](http://s23.postimg.org/5ea9c5663/IMG_5711.jpg)
 
 
