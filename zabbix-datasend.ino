@@ -8,7 +8,7 @@
 DHT dht(DHTPIN, DHT11);
 
 const char* ssid     = "CWRouter1-";
-const char* password = "cyberwings1234";
+const char* password = "passwd";
 const char* zabbix_server = "192.168.1.63";
 
 Ticker ticker;
