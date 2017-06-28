@@ -1,4 +1,4 @@
-# Esp8266_Zabbix_Tempecture
+# Esp8266_Zabbix_Temperature
 ---------------------------
 ##
 ## Set as the follows your wifi settings
@@ -13,7 +13,7 @@
 -------------
 
 - `esp8266 nodemcu1`
-- `DHT 11 Tempecture & Humidity Sensor`
+- `DHT 11 Temperature & Humidity Sensor`
 - `Resistor 10k ohm`
 - `project board`
 - `Male to male Dupont Jumper Wire`
